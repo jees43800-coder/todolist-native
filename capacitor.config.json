@@ -1,5 +1,5 @@
 {
-  "appId": "com.esje.todolist",
+  "appId": "com.esje.addtodo",
   "appName": "Add To Do",
   "webDir": "www",
   "bundledWebRuntime": false,
